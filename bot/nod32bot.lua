@@ -319,7 +319,7 @@ This command will send text to [group_id]
 
 ]],
     help_text = [[
-NOD32 Commands list :
+Commands list :
  
 1-banhammer list ^
  
